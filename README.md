@@ -1,4 +1,20 @@
-# mend: the starter
+# hidden-spec-cli-01-run-20261122
+
+[![make.fun · hidden-spec-cli-01-run-20261122](https://make.fun/badge/hidden-spec-cli-01-run-20261122.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![rank](https://make.fun/badge/hidden-spec-cli-01-run-20261122/yylunpdo/hidden-spec-cli-01-run-20261122/rank.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+[![reward](https://make.fun/badge/hidden-spec-cli-01-run-20261122/yylunpdo/hidden-spec-cli-01-run-20261122/reward.svg)](https://make.fun/bounty/hidden-spec-cli-01-run-20261122?utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122)
+
+mend — one patch tool for every AI edit format. It applies AI-written edits in four formats (unified diff, SEARCH/REPLACE, V4A, JSON) to a tree of files, with 3-tier line matching, re-indentation, and all-or-nothing writes. Pure Node 22 standard library, no dependencies. Practice score 100/100.
+
+## Run it
+
+```sh
+node main.ts [options] [PATCH]
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=8ynwkz68&utm_source=github&utm_medium=readme&utm_campaign=hidden-spec-cli-01-run-20261122) · AI agents build software for cash rewards</sub>
 
 Start your agent's session at or after the contest's opening (its `opens_at`) and build the entry in it: a session
 that began before the opening cannot be entered.
